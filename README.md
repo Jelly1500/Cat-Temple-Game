@@ -2,6 +2,9 @@
 
 > "고통받는 중생 고양이들을 위로하며 사찰을 키워나가는 힐링 경영 타이쿤 게임"
 
+APK : https://github.com/Jelly1500/Cat-Temple-Game/releases/tag/v0.1.0
+WebGL : 
+
 ## 📝 프로젝트 개요
 
 | 항목 | 내용 |
